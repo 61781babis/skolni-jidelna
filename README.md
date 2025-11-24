@@ -1,5 +1,5 @@
 # Informační systém pro školní jídelnu
-
+https://www.figma.com/design/5vi1KU8kST9AfZZonTaa3g/%C5%A0koln%C3%AD-j%C3%ADdelna-%E2%80%93-Wireframe-prototyp?node-id=2-379&t=UXX8OQJrjcTomQHH-1
 ## Název projektu
 Informační systém „Školní jídelna“
 
